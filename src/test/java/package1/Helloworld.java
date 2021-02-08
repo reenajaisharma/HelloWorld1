@@ -11,6 +11,7 @@ public void tc1()
 { WebDriver dr=new ChromeDriver();
 dr.get("https://www.selenium.dev/");
 	System.out.println(2)1;
+	System.out.println("done");
 }
 
 @Test
