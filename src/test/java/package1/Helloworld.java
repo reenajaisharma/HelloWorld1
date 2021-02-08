@@ -10,7 +10,7 @@ public class Helloworld {
 public void tc1()
 { WebDriver dr=new ChromeDriver();
 dr.get("https://www.selenium.dev/");
-	System.out.println("hello world");
+	System.out.println(2)1;
 }
 
 @Test
