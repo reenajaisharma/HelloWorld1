@@ -12,6 +12,6 @@ public void tc1()
 @Test
 public void tc2()
 {
-	System.out.println("second test");
+	System.out.println("second test1");
 }
 }
